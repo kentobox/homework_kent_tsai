@@ -1,0 +1,70 @@
+.Menu,.Header, .videoContainer {
+	border: 1px solid gray;
+	height: 40px;
+}
+
+.BannerAd {
+	height: 330px;
+	padding: 15px;
+}
+.box {
+	border: 1px solid red;
+	height: 40px;
+}
+
+.herobanner {
+	height: 300px;
+	border: 1px solid red;
+}
+
+.videoContainer {
+	height: 480px;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding: 10px;
+}
+
+#Recommended {
+	border: 1px solid red;
+	font-weight: bold;
+
+}
+
+#Row1, #Row2 {
+	height: 200px;
+	border: 1px solid green;
+}
+
+.videoBox {
+	border: 1px solid red;
+	width: 20%;
+	float: left;
+	height: 200px;
+}
+
+#ShowMore {
+	text-align: right;
+	color: blue;
+}
+
+#logo, #userinfo {
+	height:35px;
+}
+
+#searchBox {
+	margin: 3px;
+	padding: 5px;
+	color:gray;
+	border: 1px solid gray;
+}
+
+#herobanner {
+	height: 300px;
+}
+
+.button {
+	float: left;
+	margin-top: 10px;
+	width: 30%;
+	text-align: center;
+}
