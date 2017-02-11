@@ -1,0 +1,105 @@
+/*
+Project Name: Relaxr Blank Template
+Client: Relaxr
+Author: Kent Tsai
+Developer @kentobox
+*/
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+#home {
+	height: 800px;
+	background: url(../images/header_bg.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+.homeBox {
+	margin-top: 150px;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+
+.getNow {
+	background: #faeb41;
+	color: black;
+	font-weight: bolder;
+	width: 250px;
+	margin-top: 100px;
+	padding: 10px;
+}
+
+#articles {
+	height: auto;
+	margin-top: 50px;
+	margin-bottom: 80px;
+	font-size: 25px
+}
+
+ #services {
+	height: auto;
+	margin-top: 50px;
+	margin-bottom: 80px;	
+ }
+
+h1 {
+	color: white;
+	font-weight: 700;
+	margin-top: 50px;
+	font-size: 50px;
+}
+
+h3 {
+	font-weight: bold;
+}
+
+#quote {
+	background: url(../images/testimonial_bg.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	color: white;
+	height: auto;
+	text-align: center;
+	font-size: 18px;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.boxImage {
+	width: 100%;
+	height: auto;
+}
+
+#signup {
+	height: auto;
+	background: #faeb41;
+	text-align: center;
+}
+
+.signUp {
+	margin: 40px;
+	width: 300px;
+	padding: 15px;
+	font-size: 25px;
+	font-weight: bolder;
+	background: #00306d;
+}
+
+footer {
+	background: black;
+	color: white;
+	text-align: center;
+	padding-bottom: 50px;
+	font-size: 20px;
+}
+
+.icon {
+	margin: 30px 30px 60px 30px;
+	filter: invert(100%);
+	width: 40px;
+	height: auto;
+}
