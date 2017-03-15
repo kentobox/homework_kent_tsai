@@ -61,7 +61,7 @@ $(function(){
 });
 
 
-var questions = ["Hi There! What's Your Name?", "Which Topic Are Your Interested In? (Kids, Mom, Dad, etc)", "Great! Let Me Make A Recommendation For You!", "Here Is What We Recommend: Kids Magazine - Education Edition"];
+var questions = ["Hi There! What's Your Name?", "Which Topic Are Your Interested In? (Kids, Mom, Dad, etc)", "Great! Let Me Make A Recommendation For You! Reply OK", "Here Is What We Recommend: Kids Magazine - Education Edition"];
 var answers = [];
 var intCurrentQuestion = 0;
 
