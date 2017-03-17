@@ -70,7 +70,7 @@ $(function(){
                 string += '<li class="list-group-item clearfix">';
                 string += products[i];
                 string += '<span class="badge badge-pill badge-primary">' + count + '</span>';
-                string += '<span class="badge badge-pill badge-primary">' + prices[i] + '</span>';
+                string += '<span class="badge badge-pill badge-primary">' + total + '</span>';
 
                 string += '</li>';
 
