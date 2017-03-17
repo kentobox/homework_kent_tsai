@@ -11,6 +11,7 @@ $(function(){
         string += '<li class="list-group-item clearfix">';
             string += '<img class="img-thumbnail" src="./images/kids.png">';
             string += products[i];
+            string += prices[i];
             string += '<button class="btn btn-danger btn-xs pull-right btn-product-remove" value=' + i + '>Remove</button>';
             string += '<button class="btn btn-success btn-xs pull-right btn-product-add" value=' + i + '>Add to Cart</button>';
         string += '</li>';
